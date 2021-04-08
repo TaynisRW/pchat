@@ -5,4 +5,4 @@
 <sub>Welcome to the best chat web for talk of all type stuff with modern architecture and scaling.</sub>
 </p>
 
-![Demo](https://raw.githubusercontent.com/TaynisRW/pchat/master/assets/img/1register.png "Demo")
+<p align="center"> ![Demo](https://raw.githubusercontent.com/TaynisRW/pchat/master/assets/img/1register.png "Demo") </p>
